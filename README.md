@@ -1,6 +1,4 @@
 # practice_repo
-checking 6
+checking 7
 <br>
-checking for amend 6
-
 
